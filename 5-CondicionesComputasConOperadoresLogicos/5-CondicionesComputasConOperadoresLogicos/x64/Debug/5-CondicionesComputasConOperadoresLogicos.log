@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Desarrollo\Programacion\Cursos\13-C++ Inicial Beca Quark\5-CondicionesComputasConOperadoresLogicos\5-CondicionesComputasConOperadoresLogicos\Source.cpp(198,26): warning C4305: '*=': truncamiento de 'double' a 'float'
+D:\Desarrollo\Programacion\Cursos\13-C++ Inicial Beca Quark\5-CondicionesComputasConOperadoresLogicos\5-CondicionesComputasConOperadoresLogicos\Source.cpp(205,27): warning C4305: '*=': truncamiento de 'double' a 'float'
+  5-CondicionesComputasConOperadoresLogicos.vcxproj -> D:\Desarrollo\Programacion\Cursos\13-C++ Inicial Beca Quark\5-CondicionesComputasConOperadoresLogicos\x64\Debug\5-CondicionesComputasConOperadoresLogicos.exe
